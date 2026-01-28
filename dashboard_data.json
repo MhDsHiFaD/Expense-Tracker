@@ -1,0 +1,157 @@
+{
+    "summary": {
+        "total_spent": 139563.92,
+        "avg_monthly_sub": 144.02,
+        "weekend_avg": 309.19,
+        "weekday_avg": 275.84,
+        "saving_hint": "Your weekend spending is higher!"
+    },
+    "monthly_trend": [
+        {
+            "month": "Jan",
+            "amount": 13592.21
+        },
+        {
+            "month": "Feb",
+            "amount": 14274.45
+        },
+        {
+            "month": "Mar",
+            "amount": 8459.05
+        },
+        {
+            "month": "Apr",
+            "amount": 9543.89
+        },
+        {
+            "month": "May",
+            "amount": 11322.3
+        },
+        {
+            "month": "Jun",
+            "amount": 10841.09
+        },
+        {
+            "month": "Jul",
+            "amount": 10111.8
+        },
+        {
+            "month": "Aug",
+            "amount": 10665.960000000001
+        },
+        {
+            "month": "Sep",
+            "amount": 14482.7
+        },
+        {
+            "month": "Oct",
+            "amount": 14311.85
+        },
+        {
+            "month": "Nov",
+            "amount": 9263.04
+        },
+        {
+            "month": "Dec",
+            "amount": 12695.58
+        }
+    ],
+    "category_distribution": [
+        {
+            "category": "Dining",
+            "amount": 7914.88
+        },
+        {
+            "category": "Rent",
+            "amount": 105600.0
+        },
+        {
+            "category": "Shopping",
+            "amount": 8567.69
+        },
+        {
+            "category": "Subscriptions",
+            "amount": 1728.27
+        },
+        {
+            "category": "Transport",
+            "amount": 7379.64
+        },
+        {
+            "category": "Utilities",
+            "amount": 8373.44
+        }
+    ],
+    "weekend_vs_weekday": [
+        {
+            "type": "Weekday",
+            "amount": 98750.19
+        },
+        {
+            "type": "Weekend",
+            "amount": 40813.73
+        }
+    ],
+    "recent_transactions": [
+        {
+            "date": "2026-01-01",
+            "description": "Starbucks",
+            "category": "Dining",
+            "amount": "69.94"
+        },
+        {
+            "date": "2026-01-01",
+            "description": "Parking Gar #4295 NY",
+            "category": "Transport",
+            "amount": "65.78"
+        },
+        {
+            "date": "2025-12-31",
+            "description": "Electronic Mart",
+            "category": "Shopping",
+            "amount": "102.7"
+        },
+        {
+            "date": "2025-12-31",
+            "description": "Parking Gar",
+            "category": "Transport",
+            "amount": "165.08"
+        },
+        {
+            "date": "2025-12-31",
+            "description": "Internet Provider #3580 NY",
+            "category": "Utilities",
+            "amount": "120.96"
+        },
+        {
+            "date": "2025-12-30",
+            "description": "Lyft #6744 NY",
+            "category": "Transport",
+            "amount": "124.0"
+        },
+        {
+            "date": "2025-12-30",
+            "description": "Starbucks #4920 NY",
+            "category": "Dining",
+            "amount": "35.88"
+        },
+        {
+            "date": "2025-12-29",
+            "description": "Gym Membership",
+            "category": "Subscriptions",
+            "amount": "28.76"
+        },
+        {
+            "date": "2025-12-27",
+            "description": "Water Bill",
+            "category": "Utilities",
+            "amount": "79.26"
+        },
+        {
+            "date": "2025-12-27",
+            "description": "Local Cafe",
+            "category": "Dining",
+            "amount": "75.55"
+        }
+    ]
+}
